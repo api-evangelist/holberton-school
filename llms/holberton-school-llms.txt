@@ -1,0 +1,20 @@
+# Holberton School
+
+> Silicon Valley-born technology education company training software and AI engineers through project-based, peer-driven learning. Reports a 92% employment rate among alumni. Tracked in the API Evangelist network as a Partech portfolio company. No public developer API, SDK, or /.well-known discovery surface is published at this time.
+
+## About
+- [Holberton School](https://holbertonschool.com/): Company website (redirects to https://hbtn.dev/).
+- [Programs](https://hbtn.dev/programs): Software engineering, AI/ML, cybersecurity, and cloud training programs.
+- [Blog](https://hbtn.dev/blog): News, tech insights, student projects, and campus updates.
+- [Contact / Support](https://hbtn.dev/contact): Contact and support.
+
+## Legal
+- [Privacy Policy](https://hbtn.dev/privacy-policy)
+- [Terms of Use](https://hbtn.dev/terms-of-use)
+
+## Developer
+- [GitHub Organization](https://github.com/holbertonschool): Official GitHub organization (no public repositories at this time).
+
+## Notes
+- No public API, OpenAPI/Swagger, AsyncAPI, MCP server, or SDK packages were found during enrichment.
+- /.well-known/security.txt, /.well-known/api-catalog, /.well-known/openid-configuration, and /llms.txt all returned HTTP 404 on holbertonschool.com and hbtn.dev.
